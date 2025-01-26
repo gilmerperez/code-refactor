@@ -10,15 +10,15 @@ Open the `index.html` file to view the refactored webpage. Ensure that all acces
 
 ## Instructions
 
-* Refactor the HTML and CSS code to improve the accessibility of the webpage.
+1. Refactor the HTML and CSS code to improve the accessibility of the webpage.
 
-* Use semantic HTML elements to structure the page logically and intuitively.
+2. Use semantic HTML elements to structure the page logically and intuitively.
 
-* Ensure that all images have appropriate `alt` attributes.
+3. Ensure that all images have appropriate `alt` attributes.
 
-* Rework the CSS to make it more efficient and better organized.
+4. Rework the CSS to make it more efficient and better organized.
 
-* Follow the Scout Rule and leave the code cleaner than you found it.
+4. Follow the Scout Rule and leave the code cleaner than you found it.
 
 ## Key Features
 
