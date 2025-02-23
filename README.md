@@ -1,4 +1,4 @@
-# Code Refactor
+# Code Refactor: Horiseon Website
 
 Refactored an existing webpage to improve its accessibility. This involves making the site more usable for people with disabilities while ensuring that it meets accessibility standards.
 
